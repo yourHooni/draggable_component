@@ -1,3 +1,4 @@
+import React from "react";
 import Draggable from "./components/Draggable";
 import Box from "./components/Box";
 
